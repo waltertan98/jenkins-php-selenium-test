@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 set -x
 docker kill my-apache-php-app
